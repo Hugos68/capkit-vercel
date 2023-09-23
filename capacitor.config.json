@@ -1,5 +1,5 @@
 {
-  "appId": "com.hugos.vercelapp",
+  "appId": "com.hugos.capkitvercel",
   "appName": "capkit-vercel",
   "webDir": "build"
 }
